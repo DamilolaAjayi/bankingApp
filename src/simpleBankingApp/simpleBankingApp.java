@@ -28,12 +28,11 @@ public class simpleBankingApp {
 				break;
 		}
 	}
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//		new simpleBankingApp();
-//		new transactions();
-////		transactions();
-//	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		new simpleBankingApp();
+		new transactions();
+	}
 	
 	public long getInitialDeposit() {
 		return initialDeposit;
