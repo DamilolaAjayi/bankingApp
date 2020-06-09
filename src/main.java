@@ -5,7 +5,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("==============================");
 		System.out.println("-----Welcome to XAE bank!-----");
-		System.out.println("==============================");
+		System.out.println("==============================\n");
 		new user();
 	}
 
